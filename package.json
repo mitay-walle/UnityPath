@@ -1,0 +1,21 @@
+{
+  "name": "com.mitay-walle.unitypath",
+  "version": "1.0.1",
+  "displayName": "Unity Path",
+  "description": "Аналогично с Addressables.AssetReference показывает в inspector ссылку, а во время билда сериализуется только строчная ссылка",
+  "unity": "2018.4",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/mitay-walle/Transform_stuff#readme",
+  "licensesUrl": "https://github.com/mitay-walle/Transform_stuff/blob/master/LICENSE",
+  "dependencies": { },
+ "keywords": [
+    "Transform",
+    "Inspector",
+    "Editor"
+  ],
+  "author": {
+    "name": "mitay-walle",
+    "email": "mitay-walle@mail.ru",
+    "url": "https://github.com/mitay-walle"
+  }
+}
